@@ -19,7 +19,7 @@ app.use((req, res, next) => {
 
 //Routes
 app.use("/api/posts/", require("./src/routes/post"));
-app.use("/api/user", require("./src/routes/user"));
+app.use("/api/users", require("./src/routes/user"));
 
 //Connect to MongoDb or Database
 mongoose
