@@ -15,8 +15,9 @@ const createPost = async (req, res) => {
       comments,
     });
     res.status(200).json(post);
-  } catch (error) {}
-  res.status(400).json({ error: error.message });
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+  }
 };
 
 //Get all the post / R of CRUD
