@@ -1,2 +1,3 @@
 nodemon server.js
-npm start
+npm start 
+be component for https://github.com/Jaycelab/Blog-Web-App-FE on host 4000
