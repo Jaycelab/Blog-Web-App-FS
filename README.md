@@ -7,4 +7,4 @@ npm start
 
 # Preview
 
-![](https://github.com/Blog-Web-App-FS/public/demo.gif)
+![](https://github.com/Blog-Web-App-FS/blob/main/backend/public/demo.gif)
