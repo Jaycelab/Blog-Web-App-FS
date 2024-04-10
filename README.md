@@ -8,4 +8,4 @@ npm start
 
 ## Preview
 
-<img src="https://github.com/Jaycelab/Blog-Web-App-FS/blob/main/backend/public/demo.gif" width="1000" height="500"/>
+<img src="https://github.com/Jaycelab/Blog-Web-App-FS/blob/main/backend/public/demo2.gif" width="1100" height="525"/>
